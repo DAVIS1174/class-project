@@ -1,0 +1,35 @@
+body{
+    background-color: #1b1b32;
+    color: rgb(255, 255, 255);
+}
+.home{
+    color: white;
+}
+
+.about{
+    color: white;
+}
+
+.project{
+    color: white;
+}
+
+.gallery{
+    color: white;
+}
+
+menu{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    color: burlywood;
+}
+
+Ul{
+   text-align: left;
+}
